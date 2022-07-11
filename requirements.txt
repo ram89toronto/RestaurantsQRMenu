@@ -4,6 +4,6 @@ matplotlib
 gdown
 numpy
 glob2
-sys
+
 fitz
 pdf2image
