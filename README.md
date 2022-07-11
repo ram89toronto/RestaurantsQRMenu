@@ -14,6 +14,7 @@ Aim: Prepare to print the QR Code Menu from their desktop printer in less than 5
 Requirements: Google Account, PDF version of the Menu
 
 Solution: Website here 🙂 
+https://ram89toronto-restaurantsqrmenu-main-dy6rut.streamlitapp.com/
 
 Why even spend 5 mins to get this QR Food Menu ?
 
