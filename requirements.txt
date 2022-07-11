@@ -1,9 +1,0 @@
-streamlit
-pandas
-matplotlib
-gdown
-numpy
-glob2
-
-fitz
-pdf2image
