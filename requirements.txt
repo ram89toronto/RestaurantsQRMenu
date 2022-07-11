@@ -3,7 +3,7 @@ pandas
 matplotlib
 gdown
 numpy
-glob
+glob2
 sys
 fitz
 pdf2image
