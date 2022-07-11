@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+gdown
+numpy
+glob
+sys
+fitz
+pdf2image
