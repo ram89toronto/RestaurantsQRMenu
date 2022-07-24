@@ -14,7 +14,7 @@ import pdfqrgen
 # Displaying Required information on Site
 st.write("# Restaurants QR Menu in 3 Simple Steps")
 st.image('hands-1167612_1280.jpg')
-st.write("## Step 1: Paste your Restuarant's PDF Menu that is uploaded on Google Drive below")
+st.write("## Step 1: Paste your Restaurant's PDF Menu that is uploaded on Google Drive below")
 
 st.write("""##### Having trouble creating a shared google drive link ? No problem: Watch this youtube video :- https://www.youtube.com/watch?v=E1ntG7XexAM&t=85s """)
 # Taking input and chaning it to downloadable googl drive link
