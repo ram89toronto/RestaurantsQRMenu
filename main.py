@@ -16,6 +16,15 @@ st.write("# Restaurants QR Menu in 3 Simple Steps")
 st.image('hands-1167612_1280.jpg')
 st.write("## Step 1: Paste your Restaurant's PDF Menu that is uploaded on Google Drive below")
 
+# Creating profile summary on sidebar
+
+st.sidebar.markdown("[![Ram Rallabandi](https://1.gravatar.com/avatar/10d166915c6715955ccdcf377a6544ba?s=400&d=mm)](https://ramrallabandi.link/)")
+st.sidebar.markdown("## 👨 Ram Rallabandi - Data Science Professional")
+column1, column2 , column3 =  st.sidebar.columns(3)
+column1.markdown("[![,](https://img.icons8.com/color/48/null/wordpress.png)](https://ramrallabandi.link)")
+column2.markdown("[![,](https://img.icons8.com/color/48/null/linkedin.png)](https://www.linkedin.com/in/ram-rallabandi/)")
+column3.markdown("[![,](https://img.icons8.com/ios-filled/50/null/github.png)](https://github.com/ram89toronto)")
+
 st.write("""##### Having trouble creating a shared google drive link ? No problem: Watch this youtube video :- https://www.youtube.com/watch?v=E1ntG7XexAM&t=85s """)
 # Taking input and chaning it to downloadable googl drive link
 link1 = st.text_input("Paste your Google Drive Link below and press enter ",value="hhttps://drive.google.com/file/d/1jeu_EmYoP4WEtphbQwqtJXyJbmJX5-Dc/view?usp=sharing")
