@@ -1,5 +1,8 @@
 # RestaurantsQRMenu
-QR Food Menu in 3 simple steps
+
+## QR Food Menu Generator
+
+### Weblink - https://ramrallabandi.link/2022/07/11/restaurants-qr-menu-in-less-than-5-mins/
 
 When you visit or walk near a plaza, “What’s on their menu?” is a question that you keep asking yourself. Yes, your eyes keep searching for the menu. Small restaurants in Ontario have had their menus printed ages ago. They do not have the time or technology to upgrade it because they are good at making amazing, yummy dishes for us. Koodos! to all small restaurants that survived this pandemic. I have visited around 100 + restaurants this year of various capacities, with seating ranging from 2 people to 100+ seats in Toronto. I was surprised that only about 10% of the restaurants have a digital menu; the rest still have their old shabby menu. I was hesitant to touch those menus, a fear that sits in the back of my mind that does not wear off because of COVID-19.
 
